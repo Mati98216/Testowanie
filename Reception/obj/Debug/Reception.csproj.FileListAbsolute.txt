@@ -1,0 +1,306 @@
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowaniaGlowny (1)\Reception\bin\Debug\Reception.dll
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowaniaGlowny (1)\Reception\bin\Debug\Reception.pdb
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowaniaGlowny (1)\Reception\bin\Debug\DBSystem.dll
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowaniaGlowny (1)\Reception\obj\Debug\Reception.csproj.AssemblyReference.cache
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowaniaGlowny (1)\Reception\obj\Debug\Reception.csproj.CoreCompileInputs.cache
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowaniaGlowny (1)\Reception\obj\Debug\Reception.csproj.CopyComplete
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowaniaGlowny (1)\Reception\obj\Debug\Reception.dll
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowaniaGlowny (1)\Reception\obj\Debug\Reception.pdb
+F:\Projekty\Testowanie Oprogramowania\Reception\bin\Debug\Reception.dll
+F:\Projekty\Testowanie Oprogramowania\Reception\bin\Debug\Reception.pdb
+F:\Projekty\Testowanie Oprogramowania\Reception\bin\Debug\DBSystem.dll
+F:\Projekty\Testowanie Oprogramowania\Reception\obj\Debug\Reception.csproj.AssemblyReference.cache
+F:\Projekty\Testowanie Oprogramowania\Reception\obj\Debug\Reception.csproj.CoreCompileInputs.cache
+F:\Projekty\Testowanie Oprogramowania\Reception\obj\Debug\Reception.csproj.CopyComplete
+F:\Projekty\Testowanie Oprogramowania\Reception\obj\Debug\Reception.dll
+F:\Projekty\Testowanie Oprogramowania\Reception\obj\Debug\Reception.pdb
+C:\Users\marys\OneDrive\Pulpit\testowanie\Reception\bin\Debug\Reception.dll
+C:\Users\marys\OneDrive\Pulpit\testowanie\Reception\bin\Debug\Reception.pdb
+C:\Users\marys\OneDrive\Pulpit\testowanie\Reception\bin\Debug\DBSystem.dll
+C:\Users\marys\OneDrive\Pulpit\testowanie\Reception\obj\Debug\Reception.csproj.AssemblyReference.cache
+C:\Users\marys\OneDrive\Pulpit\testowanie\Reception\obj\Debug\Reception.csproj.CoreCompileInputs.cache
+C:\Users\marys\OneDrive\Pulpit\testowanie\Reception\obj\Debug\Reception.csproj.CopyComplete
+C:\Users\marys\OneDrive\Pulpit\testowanie\Reception\obj\Debug\Reception.dll
+C:\Users\marys\OneDrive\Pulpit\testowanie\Reception\obj\Debug\Reception.pdb
+C:\Users\ika11\Desktop\1111testowaniepozdroandżela\testowanie\Reception\bin\Debug\Reception.dll
+C:\Users\ika11\Desktop\1111testowaniepozdroandżela\testowanie\Reception\bin\Debug\Reception.pdb
+C:\Users\ika11\Desktop\1111testowaniepozdroandżela\testowanie\Reception\bin\Debug\DBSystem.dll
+C:\Users\ika11\Desktop\1111testowaniepozdroandżela\testowanie\Reception\obj\Debug\Reception.csproj.AssemblyReference.cache
+C:\Users\ika11\Desktop\1111testowaniepozdroandżela\testowanie\Reception\obj\Debug\Reception.csproj.CoreCompileInputs.cache
+C:\Users\ika11\Desktop\1111testowaniepozdroandżela\testowanie\Reception\obj\Debug\Reception.csproj.CopyComplete
+C:\Users\ika11\Desktop\1111testowaniepozdroandżela\testowanie\Reception\obj\Debug\Reception.dll
+C:\Users\ika11\Desktop\1111testowaniepozdroandżela\testowanie\Reception\obj\Debug\Reception.pdb
+C:\Users\marys\OneDrive\Pulpit\testowanienielipton\1111testowaniepozdroandżela\testowanie\Reception\bin\Debug\Reception.dll
+C:\Users\marys\OneDrive\Pulpit\testowanienielipton\1111testowaniepozdroandżela\testowanie\Reception\bin\Debug\Reception.pdb
+C:\Users\marys\OneDrive\Pulpit\testowanienielipton\1111testowaniepozdroandżela\testowanie\Reception\bin\Debug\DBSystem.dll
+C:\Users\marys\OneDrive\Pulpit\testowanienielipton\1111testowaniepozdroandżela\testowanie\Reception\obj\Debug\Reception.csproj.AssemblyReference.cache
+C:\Users\marys\OneDrive\Pulpit\testowanienielipton\1111testowaniepozdroandżela\testowanie\Reception\obj\Debug\Reception.csproj.CoreCompileInputs.cache
+C:\Users\marys\OneDrive\Pulpit\testowanienielipton\1111testowaniepozdroandżela\testowanie\Reception\obj\Debug\Reception.csproj.CopyComplete
+C:\Users\marys\OneDrive\Pulpit\testowanienielipton\1111testowaniepozdroandżela\testowanie\Reception\obj\Debug\Reception.dll
+C:\Users\marys\OneDrive\Pulpit\testowanienielipton\1111testowaniepozdroandżela\testowanie\Reception\obj\Debug\Reception.pdb
+C:\Users\marys\OneDrive\Pulpit\testdeydbud\Reception\bin\Debug\Reception.dll
+C:\Users\marys\OneDrive\Pulpit\testdeydbud\Reception\bin\Debug\Reception.pdb
+C:\Users\marys\OneDrive\Pulpit\testdeydbud\Reception\bin\Debug\DBSystem.dll
+C:\Users\marys\OneDrive\Pulpit\testdeydbud\Reception\obj\Debug\Reception.csproj.AssemblyReference.cache
+C:\Users\marys\OneDrive\Pulpit\testdeydbud\Reception\obj\Debug\Reception.csproj.CoreCompileInputs.cache
+C:\Users\marys\OneDrive\Pulpit\testdeydbud\Reception\obj\Debug\Reception.csproj.CopyComplete
+C:\Users\marys\OneDrive\Pulpit\testdeydbud\Reception\obj\Debug\Reception.dll
+C:\Users\marys\OneDrive\Pulpit\testdeydbud\Reception\obj\Debug\Reception.pdb
+C:\Users\marys\Downloads\ststststst\Reception\bin\Debug\Reception.dll
+C:\Users\marys\Downloads\ststststst\Reception\bin\Debug\Reception.pdb
+C:\Users\marys\Downloads\ststststst\Reception\bin\Debug\DBSystem.dll
+C:\Users\marys\Downloads\ststststst\Reception\obj\Debug\Reception.csproj.AssemblyReference.cache
+C:\Users\marys\Downloads\ststststst\Reception\obj\Debug\Reception.csproj.CoreCompileInputs.cache
+C:\Users\marys\Downloads\ststststst\Reception\obj\Debug\Reception.csproj.CopyComplete
+C:\Users\marys\Downloads\ststststst\Reception\obj\Debug\Reception.dll
+C:\Users\marys\Downloads\ststststst\Reception\obj\Debug\Reception.pdb
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\Reception.dll
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\Reception.pdb
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\DBSystem.dll
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\obj\Debug\Reception.csproj.AssemblyReference.cache
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\obj\Debug\Reception.csproj.CoreCompileInputs.cache
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\obj\Debug\Reception.csproj.CopyComplete
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\obj\Debug\Reception.dll
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\obj\Debug\Reception.pdb
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\Reception.dll.config
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\EntityFramework.dll
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\Google.Protobuf.dll
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\MySql.Data.dll
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\System.Buffers.dll
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\System.Memory.dll
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\ZstdNet.dll
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\EntityFramework.xml
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\Google.Protobuf.pdb
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\Google.Protobuf.xml
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\Microsoft.Exchange.WebServices.pdb
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\MySql.Data.xml
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\System.Buffers.xml
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\System.Memory.xml
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marys\OneDrive\Pulpit\ststststst\Reception\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\Reception.dll.config
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\Reception.dll
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\Reception.pdb
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\BouncyCastle.Crypto.dll
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\DBSystem.dll
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\EntityFramework.dll
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\EntityFramework.SqlServer.dll
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\Google.Protobuf.dll
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\K4os.Compression.LZ4.dll
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\K4os.Hash.xxHash.dll
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\Microsoft.Exchange.WebServices.dll
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\MySql.Data.dll
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\System.Buffers.dll
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\System.Memory.dll
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\System.Numerics.Vectors.dll
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\Ubiety.Dns.Core.dll
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\ZstdNet.dll
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\EntityFramework.xml
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\EntityFramework.SqlServer.xml
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\Google.Protobuf.pdb
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\Google.Protobuf.xml
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\K4os.Compression.LZ4.xml
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\K4os.Hash.xxHash.xml
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\Microsoft.Exchange.WebServices.pdb
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\Microsoft.Exchange.WebServices.xml
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\MySql.Data.xml
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\System.Buffers.xml
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\System.Memory.xml
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\System.Numerics.Vectors.xml
+F:\Projekty\TestowanieOprogramowania\Reception\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Projekty\TestowanieOprogramowania\Reception\obj\Debug\Reception.csproj.CoreCompileInputs.cache
+F:\Projekty\TestowanieOprogramowania\Reception\obj\Debug\Reception.csproj.CopyComplete
+F:\Projekty\TestowanieOprogramowania\Reception\obj\Debug\Reception.dll
+F:\Projekty\TestowanieOprogramowania\Reception\obj\Debug\Reception.pdb
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\Reception.dll.config
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\Reception.dll
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\Reception.pdb
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\DBSystem.dll
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\EntityFramework.dll
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\Google.Protobuf.dll
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\MySql.Data.dll
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\System.Buffers.dll
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\System.Memory.dll
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\ZstdNet.dll
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\EntityFramework.xml
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\Google.Protobuf.pdb
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\Google.Protobuf.xml
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\Microsoft.Exchange.WebServices.pdb
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\MySql.Data.xml
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\System.Buffers.xml
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\System.Memory.xml
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\obj\Debug\Reception.csproj.AssemblyReference.cache
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\obj\Debug\Reception.csproj.CoreCompileInputs.cache
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\obj\Debug\Reception.csproj.CopyComplete
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\obj\Debug\Reception.dll
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\obj\Debug\Reception.pdb
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\Administation.dll
+C:\Users\marys\OneDrive\Pulpit\TestowanieOprogramowania\Reception\bin\Debug\Administation.pdb
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\Reception.dll.config
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\Reception.dll
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\Reception.pdb
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\DBSystem.dll
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\EntityFramework.dll
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\Google.Protobuf.dll
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\MySql.Data.dll
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\System.Buffers.dll
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\System.Memory.dll
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\ZstdNet.dll
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\Administation.pdb
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\EntityFramework.xml
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\Google.Protobuf.pdb
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\Google.Protobuf.xml
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\Microsoft.Exchange.WebServices.pdb
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\MySql.Data.xml
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\System.Buffers.xml
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\System.Memory.xml
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\obj\Debug\Reception.csproj.AssemblyReference.cache
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\obj\Debug\Reception.csproj.CoreCompileInputs.cache
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\obj\Debug\Reception.csproj.CopyComplete
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\obj\Debug\Reception.dll
+C:\Users\marys\OneDrive\Pulpit\testo\Reception\obj\Debug\Reception.pdb
+C:\Users\User\Desktop\test\Reception\bin\Debug\Reception.dll.config
+C:\Users\User\Desktop\test\Reception\bin\Debug\Reception.dll
+C:\Users\User\Desktop\test\Reception\bin\Debug\Reception.pdb
+C:\Users\User\Desktop\test\Reception\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\test\Reception\bin\Debug\DBSystem.dll
+C:\Users\User\Desktop\test\Reception\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\test\Reception\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\test\Reception\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\test\Reception\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\test\Reception\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\test\Reception\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\test\Reception\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\User\Desktop\test\Reception\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\User\Desktop\test\Reception\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\test\Reception\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\test\Reception\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\test\Reception\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\test\Reception\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\test\Reception\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Desktop\test\Reception\bin\Debug\ZstdNet.dll
+C:\Users\User\Desktop\test\Reception\bin\Debug\Administation.pdb
+C:\Users\User\Desktop\test\Reception\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\test\Reception\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\test\Reception\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Desktop\test\Reception\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\test\Reception\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Desktop\test\Reception\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Desktop\test\Reception\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Desktop\test\Reception\bin\Debug\Microsoft.Exchange.WebServices.pdb
+C:\Users\User\Desktop\test\Reception\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\User\Desktop\test\Reception\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\User\Desktop\test\Reception\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\User\Desktop\test\Reception\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\test\Reception\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\test\Reception\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\test\Reception\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\test\Reception\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\test\Reception\obj\Debug\Reception.csprojAssemblyReference.cache
+C:\Users\User\Desktop\test\Reception\obj\Debug\Reception.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\test\Reception\obj\Debug\Reception.csproj.CopyComplete
+C:\Users\User\Desktop\test\Reception\obj\Debug\Reception.dll
+C:\Users\User\Desktop\test\Reception\obj\Debug\Reception.pdb
+F:\Projekty\TestowanieOprogramowania\Reception\obj\Debug\Reception.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\Reception.dll.config
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\Reception.dll
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\Reception.pdb
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\DBSystem.dll
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\ZstdNet.dll
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\Google.Protobuf.pdb
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\Google.Protobuf.xml
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\Microsoft.Exchange.WebServices.pdb
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\MySql.Data.xml
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\obj\Debug\Reception.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\obj\Debug\Reception.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\obj\Debug\Reception.csproj.CopyComplete
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\obj\Debug\Reception.dll
+C:\Users\Admin\Desktop\Priv\Studia II rok\Testowanie oprogramowania\Reception\obj\Debug\Reception.pdb

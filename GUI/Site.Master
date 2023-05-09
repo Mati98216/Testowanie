@@ -1,0 +1,451 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="GUI.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="pl">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link href="Css/login.css" rel="stylesheet" type="text/css">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %>-</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <style>
+         body {
+            margin: 0;
+            padding: 50px;
+            box-sizing: border-box;
+            font-family: 'Roboto', sans-serif;
+        }
+                 /*
+
+                 NAVIGATION PANEL
+
+            1. Login panel
+            2. FormToResetPassPage
+            3. Administarotr Panel
+            4. LogoutPage
+            5. SettingPanelPage
+            6. UserManagementPage
+            7. UserAddPage
+            8. UserDetailsPage
+            9. UserEditPage
+           10. HeadAdmin
+           11. Specialization ManagementPage
+
+                 */
+  /* textboxy */
+        .field{
+            max-width: 350px;
+            width: 80%;
+            padding: 0.5rem 1rem;
+            outline: none;
+            border: 2px solid rgba(0, 0,0,0);
+            background-color: rgba(230,230,230,0.6);
+            font-size: 1.1rem;
+            margin-bottom: 15px;
+            transition: .3s;
+        }
+        .field:hover{
+            background-color: rgba(0, 0,0,0.1);
+        }
+        .field:focus{
+            background-color: #fff;
+            border: 2px solid rgba(30,85,250, 0.47);
+        }
+          /* textboxy */
+          /* Sign Buttons */
+        .btn{
+          margin-top: 20px;
+          width: 100%;
+          padding: 0.5rem 1rem;
+          font-size: 1.1rem;
+          background-color: #1b2750;
+          cursor: pointer;
+          outline: none;
+          border: none;
+          transition: 0.3s;
+          color: #fff;
+        }
+
+        .btn:hover, .btn:focus, .btn.focus{
+          background-color: #fff;
+          border-radius: 25px;
+          border: 2px solid #1b2750;
+        }
+        .btn:hover text{
+          color: #fff;
+        }
+        /* Login Cancel Buttons */
+        .jumptron{
+          margin-top: 100px;
+          display: grid;
+          grid-template-columns: 1fr 2fr;
+          justify-content: center;
+          align-items: center;
+          text-align: center;
+          background-color: #fff;
+          box-shadow: 0px 0px 19px 5px rgba(0,0,0,0.19);
+          margin-right: auto;
+          /* Login Cancel Buttons */
+  
+        }
+        .container body-content{
+            margin: 0 auto;
+        }
+        .top-side{
+          height: 100%;
+        width: 100%;
+        background-color: rgb(39, 23, 110);
+
+        }
+        .bot-side{
+          justify-content: center;
+          align-items: center;
+          padding: 25px 40px;
+        }
+        .bot-side h3{
+          position: relative;
+          padding-bottom: 10px;
+          margin-bottom: 10px;
+          font-size: 3em;
+
+        }
+        .bot-side h3::after{
+          content: '';
+          position: absolute;
+          left: 50%;
+          bottom:0;
+          transform:translateX(-50%);
+          height: 4px;
+          width:5em;
+          border-radius: 2px;
+          background-color: #1b2750;
+        }
+        /* Navbar */
+        .navbar-inverse{
+          background: linear-gradient(56deg, rgba(24,173,236,1) 0%, rgb(39, 23, 110) 84%);
+          border: none;
+
+        }
+        .navbar-inverse .navbar-brand {
+          color: #ffffff;
+          font-size: 2.5em;
+}
+         .psswrd{
+             border: none;
+             background-color: transparent;
+             width: 50px;
+         }
+
+        #login{
+
+            margin-bottom: 25px;
+        }
+
+        #Reset{
+            margin-left: 35%;
+        }
+
+         /* 2. FormToResetPassPage Start*/
+
+        .form-to-reset-password{
+            margin-top: 4em;
+            padding-top:20px;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            background-color: #fff;
+            box-shadow: 0px 0px 19px 5px rgb(0 0 0 / 19%);
+            margin-right: auto;
+            max-width: 700px;
+            margin-left: auto;
+
+        }
+
+         #form-pass-page-header{
+          position: relative;
+          padding-bottom: 10px;
+          margin-bottom: 10px;
+          font-size: 2.5em;
+          margin-bottom: 1em;
+         }
+
+         #form-pass-page-header::after{
+          content: '';
+          position: absolute;
+          left: 50%;
+          bottom:0;
+          transform:translateX(-50%);
+          height: 4px;
+          width:5em;
+          border-radius: 2px;
+          background-color: #1b2750;
+        }
+
+        /* 3. Administarotr Panel Start*/
+         #Admin-panel-page-div{
+            margin-top: 4em;
+            padding-top:30px;
+            padding-bottom:30px;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            background-color: #fff;
+            box-shadow: 0px 0px 19px 5px rgb(0 0 0 / 19%);
+            margin-right: auto;
+            max-width: 700px;
+            margin-left: auto;
+            border-radius: 0 30px 0 30px;
+         }
+
+         #Admin-panel-page-div h3{
+            position: relative;
+            padding-bottom: 10px;
+            margin-bottom: 10px;
+            font-size: 2.5em;
+            margin-bottom: 1em;
+         }
+         #Admin-panel-page-div h3::after {
+            content: '';
+            position: absolute;
+            left: 50%;
+            bottom: 0;
+            transform: translateX(-50%);
+            height: 4px;
+            width: 5em;
+            border-radius: 2px;
+            background-color: #1b2750;
+            }
+
+          .admin-panel-btn{
+            background: #fff;
+            }
+
+         /* 3. Administarotr Panel End*/
+           /* 4. LogoutPage Start */
+         #logout-page-div{
+            margin-top: 4em;
+            padding-top:30px;
+            padding-bottom:30px;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            background-color: #fff;
+            box-shadow: 0px 0px 19px 5px rgb(0 0 0 / 19%);
+            margin-right: auto;
+            max-width: 700px;
+            margin-left: auto;
+            margin-bottom: 3em;
+            border-radius: 30px;
+         }
+
+         .btn-logout-page{
+          margin: 20px 10px 0 10px;
+          width: 100%;
+          padding: 0.5rem 1rem;
+          font-size: 1.1rem;
+          background-color: #1b2750;
+          cursor: pointer;
+          outline: none;
+          border: none;
+          transition: 0.3s;
+          color: #fff;
+        }
+
+        .btn-logout-page:hover, .btn-logout-page:focus, .btn-logout-page.focus{
+          background-color: #fff;
+          border-radius: 25px;
+          border: 2px solid #1b2750;
+          color: #1b2750;
+        }
+        /* 4. LogoutPage End */
+        /* 5. SettingPanelPage Start*/
+
+        .settings-panel-page{
+            margin-top: 4em;
+            padding-top:30px;
+            padding-bottom:30px;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            background-color: #fff;
+            box-shadow: 0px 0px 19px 5px rgb(0 0 0 / 19%);
+            margin-right: auto;
+            max-width: 700px;
+            margin-left: auto;
+            border-radius: 0 30px 0 30px;
+        }
+        .settings-panel-page h5{
+            margin-bottom: 10px;
+        }
+
+        /* 5. SettingPanelPage End */
+
+        /* 6. UserManagementPage Start */
+        .usr-mng-pg-div{
+            padding-top:30px;
+            padding-bottom:30px;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            margin-right: auto;
+            max-width: 700px;
+            margin-left: auto;
+        }
+        .btn-usr-mngmt-pg{
+          margin-top: 20px;
+          width: 100%;
+          padding: 0.5rem 1rem;
+          font-size: 1.5rem;
+          background-color: #1b2750;
+          cursor: pointer;
+          outline: none;
+          border: none;
+          transition: 0.3s;
+          color: #fff;
+          
+        }
+
+         .btn-usr-mngmt-pg:hover,  .btn-usr-mngmt-pg:focus, .btn-usr-mngmt-pg.focus{
+          background-color: #fff;
+          border-radius: 25px;
+          border: 2px solid #1b2750;
+          color: #1b2750;
+        }
+         /* 6. UserManagementPage End */
+
+         /* 7. UserAddPage Start */
+
+         .user-add-page-div{
+            margin-top: 4em;
+            padding-top:30px;
+            padding-bottom:30px;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            background-color: #fff;
+            box-shadow: 0px 0px 19px 5px rgb(0 0 0 / 19%);
+            margin-right: auto;
+            max-width: 700px;
+            margin-left: auto;
+            border-radius: 20px;
+         }
+         /* 7. UserAddPage End*/
+
+
+         /* 8. UserDetailsPage Start */
+
+         .tb-user-detail{
+             position: relative;
+             margin-left: auto;
+             margin-right:auto;
+              justify-content: center;
+            align-items: center;
+            text-align: center;
+            margin-bottom:20px;
+         }
+         .tb-user-detail td,th{
+             padding:5px;
+
+         }
+
+         /* 8. UserDetailsPage End */
+
+         /* 9. UserEditPage  Start*/
+
+         .edit-page-h{
+             font-size: 18px;
+         }
+
+          .edit-page-btn{
+              margin-top:10px;
+              margin-bottom:20px;
+          }
+
+         /* 9. UserEditPage  End*/
+          /* 10. HeadAdmin  Start*/
+
+         .Head-admin-panel-page-div{
+              margin-top: 4em;
+            padding-top:30px;
+            padding-bottom:30px;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            background-color: #fff;
+            box-shadow: 0px 0px 19px 5px rgb(0 0 0 / 19%);
+            margin-right: auto;
+            max-width: 700px;
+            margin-left: auto;
+            border-radius: 30px 30px 30px 30px;
+         }
+          /* 10. HeadAdmin  End*/
+         /* 11. Specialization ManagementPage Start */
+
+         .spec-mng-pg-div{
+             padding-top:30px;
+            padding-bottom:30px;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            margin-right: auto;
+            max-width: 700px;
+            margin-left: auto;
+            background-color: #fff;
+          box-shadow: 0px 0px 19px 5px rgba(0,0,0,0.19);
+          border-radius: 30px;
+          margin-top: 30px;
+         }
+
+         /* 11. Specialization ManagementPage End*/
+
+    </style>
+</head>
+<body>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see https://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                    <a class="navbar-brand" runat="server" >Medical Clinic</a>
+                    <asp:Label ID="LabelPositionMasterInfo" runat="server" Text="Label" style="float:right; margin-right:35px; margin-top:25px; color:#fff;text-transform: uppercase;"></asp:Label>
+            </div>
+        </div>
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <hr />
+            <footer>
+                <p>&copy; <%--To learn more about bundling scripts in ScriptManager see https://go.microsoft.com/fwlink/?LinkID=301884 --%>- Medical Clinic</p>
+                <a href="/Pages/MainPages/InfoPage">Information Page</a>
+            </footer>
+        </div>
+
+    </form>
+</body>
+</html>
